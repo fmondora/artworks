@@ -23,7 +23,12 @@ Perché le due parti lavorano assieme? Quale è il vero motivo? Ce lo dice la di
 
 >Con questa fornitura voglio costruire un mondo nel mio piccolo parco utenti più **felice**.
 
-Il soggetto debole vorrebbe misurare la felicità, mentre il soggetto forte vorrebbe "dimostrare" la felicità. E' come se l'idea della semplice fornitura diventi un pretesto per rendere il piccolo parco di utenti più felice. E' come se oltre all'EBITDA del fornitore, anche in numeri legati a quante persone sono più felici sia importante. Magari in un *rapporto di sostenibilità* per i propri soci o i propri portatori di interesse.
+Il soggetto debole vorrebbe misurare la felicità, mentre il soggetto forte vorrebbe "dimostrare" la felicità. E' come se l'idea della semplice fornitura diventi un pretesto per rendere il piccolo parco di utenti più felice. E' come se oltre all'EBITDA del fornitore, anche in numeri legati a quante persone sono più felici sia importante. Magari in un *rapporto di sostenibilità* per i propri soci o i propri portatori di interesse. Oggi è possibile trovare dei meccanismi in cui il vero valore possa emergere. Ci sono diversi frameworks che aiutano. Per esempio gli SDG, l'ESG oppure l'assessment del BLAB possono essere elementi in cui si può trarre spunto di vero valore.
+
+### Alcni esempi
+- NoMorePrinting: ho spinto diversi clienti a sensibilizzare i propri utenti che le stampe provocano il taglio di alberi. Misuriamo gli alberi che non sono stati tagliati;
+- HappyCorp: ho spinto dei fornitori a prendersi cura della felicità dei propri colleghi a fronte di un aumento di compenso
+- Cycle2Work.io: fai pedalare i tuoi utenti per andare al lavoro
 
 
 ## License
